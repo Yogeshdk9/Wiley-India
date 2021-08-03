@@ -1,0 +1,6 @@
+Open Weather Map API Keys
+
+
+92cfca86c6538a31c8949fc033813464
+a9e36dc51bdeb4a5e4a07ef28cd9d5d6
+252235df59e220f15220ef62108cfe6b
